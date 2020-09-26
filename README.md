@@ -46,6 +46,5 @@ We used TuneRF functions and custom loops to choose the best n.tree and mtry val
 
 
 Conclusions and Further Scope:
-Since Boosting took less time to train and had more hyperparameters to tune, we chose Boosting as our final model.  This gave us a final accuracy of 84.1% on test data and we came 4th in the contest. Since we had only 3 team members, all of us had to put in complete effort. Arkav took a lead for the Data Processing Tasks while Nishi took a lead on Feature Engineering. Kritika was responsible for the EDA, documentation and presentation.  We all contributed towards making the report and modeling as the latter required fresh ideas and multiple testings. Overall, each task was thoroughly participated in by all the team members to give a full joint effort. As future scope, we can play around with more interaction variables in our model and we can perform clustering to understand correlations between variables. We can also make use of the FSelector library as another way to select attributes for our model and create more attributes that may improve accuracy.
-
+Since Boosting took less time to train and had more hyperparameters to tune, we chose Boosting as our final model.  This gave us a final accuracy of 84.1% on test data.
 
